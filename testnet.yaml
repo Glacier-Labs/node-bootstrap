@@ -2,13 +2,13 @@ Network: "testnet"
 Bootstrap:
   Dcap:
     ChainID: 1398243
-    ChainURL: "https://1rpc.io/ata/testnet"
+    ChainURL: "https:////1rpc.io/ata/testnet"
     ChainWSURL: "wss://1rpc.io/ata/testnet"
     ContractAddress: "0xefE368b17D137E86298eec8EbC5502fb56d27832"
   NodeCtrl:
     ChainID: 5611
     ChainURL: "https://opbnb-testnet-rpc.bnbchain.org"
-    ChainWSURL: "wss://opbnb-testnet-rpc.publicnode.com"
+    ChainWSURL: "wss://opbnb-testnet.nodereal.io/ws/v1/e9a36765eb8a40b9bd12e680a1fd2bc5"
     ContractAddress: "0x1F59347c5998a8Bb5E5f3ba8ec20c030CA5dd1D2"
   License:
     ChainID: 5611
