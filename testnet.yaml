@@ -2,7 +2,7 @@ Network: "testnet"
 Bootstrap:
   Dcap:
     ChainID: 1398243
-    ChainURL: "https:////1rpc.io/ata/testnet"
+    ChainURL: "https://1rpc.io/ata/testnet"
     ChainWSURL: "wss://1rpc.io/ata/testnet"
     ContractAddress: "0xefE368b17D137E86298eec8EbC5502fb56d27832"
   NodeCtrl:
