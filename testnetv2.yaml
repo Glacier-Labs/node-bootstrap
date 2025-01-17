@@ -1,0 +1,30 @@
+Network: "testnetv2"
+Bootstrap:
+  Dcap:
+    ChainID: 1398243
+    ChainURL: "https://1rpc.io/ata/testnet"
+    ChainWSURL: "wss://1rpc.io/ata/testnet"
+    ContractAddress: "0xefE368b17D137E86298eec8EbC5502fb56d27832"
+  Staking:
+    ChainID: 2442
+    ChainURL: "https://rpc.cardona.zkevm-rpc.com"
+    ChainWSURL: "https://rpc.cardona.zkevm-rpc.com"
+    ContractAddress: "0x7B6918a483c8f74Bcd637B0a116C4a4E74AFF7E1"
+  LicenseCtrl:
+    ChainID: 80002
+    ChainURL: "https://rpc-amoy.polygon.technology"
+    ChainWSURL: "wss://rpc-amoy.polygon.technology"
+    ContractAddress: "0xc0046ef3544d3f63C10883B08a5c83a31866Bf72"
+  LicenseV2:
+    ChainID: 80002
+    ChainURL: "https://rpc-amoy.polygon.technology"
+    ChainWSURL: "wss://rpc-amoy.polygon.technology"
+    ContractAddress: "0xb9fA81Ad401CaC91e9d173Db8fe9Cfee48e8DB47"
+  NodeCtrlV2:
+    ChainID: 80002
+    ChainURL: "https://rpc-amoy.polygon.technology"
+    ChainWSURL: "wss://rpc-amoy.polygon.technology"
+    ContractAddress: "0xA01f993C97054dF5825C81057E211f2f4fD2B54c"
+  HeartbeatURL: "https://greenfield.onebitdev.com/glacier-node/api/nodes/:id/heartbeat"
+TEE:
+  IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
