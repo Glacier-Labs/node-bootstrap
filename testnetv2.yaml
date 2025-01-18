@@ -8,23 +8,23 @@ Bootstrap:
   Staking:
     ChainID: 2442
     ChainURL: "https://rpc.cardona.zkevm-rpc.com"
-    ChainWSURL: "https://rpc.cardona.zkevm-rpc.com"
-    ContractAddress: "0x7B6918a483c8f74Bcd637B0a116C4a4E74AFF7E1"
+    ChainWSURL: "wss://rpc.cardona.zkevm-rpc.com"
+    ContractAddress: "0x7D2399B54603d3fDCB73555d59066d462Ba2AEd3"
   LicenseCtrl:
     ChainID: 80002
     ChainURL: "https://rpc-amoy.polygon.technology"
     ChainWSURL: "wss://rpc-amoy.polygon.technology"
-    ContractAddress: "0xc0046ef3544d3f63C10883B08a5c83a31866Bf72"
+    ContractAddress: "0x4BB706600BeB89cb9e03d77eFc1F5eC1dE36f107"
   LicenseV2:
     ChainID: 80002
     ChainURL: "https://rpc-amoy.polygon.technology"
-    ChainWSURL: "wss://rpc-amoy.polygon.technology"
-    ContractAddress: "0xb9fA81Ad401CaC91e9d173Db8fe9Cfee48e8DB47"
+    ChainWSURL: "https://rpc-amoy.polygon.technology"
+    ContractAddress: "0x22A6a12fd8cc562B305510cc4D8E15E6d5a9C7f3"
   NodeCtrlV2:
     ChainID: 80002
     ChainURL: "https://rpc-amoy.polygon.technology"
-    ChainWSURL: "wss://rpc-amoy.polygon.technology"
-    ContractAddress: "0xA01f993C97054dF5825C81057E211f2f4fD2B54c"
+    ChainWSURL: "https://rpc-amoy.polygon.technology"
+    ContractAddress: "0x6aF63c55e20F5f258DC28B5C4cD5e46F61C0A370"
   HeartbeatURL: "https://greenfield.onebitdev.com/glacier-node/api/nodes/:id/heartbeat"
 TEE:
   IpfsURL: "https://greenfield.onebitdev.com/ipfs/"
