@@ -17,7 +17,7 @@ Bootstrap:
     ContractAddress: "0x3bA6d25dd4e5A28168efb5d14F5b6Dad8b174f77"
   LicenseV2:
     ChainID: 8453
-    ChainURL: "https://base-rpc.publicnode.com
+    ChainURL: "https://base-rpc.publicnode.com"
     ChainWSURL: "wss://base-rpc.publicnode.com"
     ContractAddress: "0x671E301D98cBcf843Dfb5E0Cf85AD69B5F7afe51"
   NodeCtrlV2:
