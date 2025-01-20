@@ -1,0 +1,30 @@
+Network: "mainnet"
+Bootstrap:
+  Dcap:
+    ChainID: 1398243
+    ChainURL: "https://1rpc.io/ata/testnet"
+    ChainWSURL: "wss://1rpc.io/ata/testnet"
+    ContractAddress: "0xefE368b17D137E86298eec8EbC5502fb56d27832"
+  Staking:
+    ChainID: 2442
+    ChainURL: "https://rpc.cardona.zkevm-rpc.com"
+    ChainWSURL: "wss://rpc.cardona.zkevm-rpc.com"
+    ContractAddress: "0x7D2399B54603d3fDCB73555d59066d462Ba2AEd3"
+  LicenseCtrl:
+    ChainID: 80002
+    ChainURL: "https://rpc-amoy.polygon.technology"
+    ChainWSURL: "wss://rpc-amoy.polygon.technology"
+    ContractAddress: "0x4BB706600BeB89cb9e03d77eFc1F5eC1dE36f107"
+  LicenseV2:
+    ChainID: 80002
+    ChainURL: "https://rpc-amoy.polygon.technology"
+    ChainWSURL: "https://rpc-amoy.polygon.technology"
+    ContractAddress: "0x22A6a12fd8cc562B305510cc4D8E15E6d5a9C7f3"
+  NodeCtrlV2:
+    ChainID: 80002
+    ChainURL: "https://rpc-amoy.polygon.technology"
+    ChainWSURL: "https://rpc-amoy.polygon.technology"
+    ContractAddress: "0x6aF63c55e20F5f258DC28B5C4cD5e46F61C0A370"
+  HeartbeatURL: "https://mainnet.glaciernode.com/glacier-node/api/nodes/:id/heartbeat"
+TEE:
+  IpfsURL: "https://mainnet.glaciernode.com/ipfs/"
