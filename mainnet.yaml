@@ -1,10 +1,10 @@
 Network: "mainnet"
 Bootstrap:
   Dcap:
-    ChainID: 1398243
-    ChainURL: "https://1rpc.io/ata/testnet"
-    ChainWSURL: "wss://1rpc.io/ata/testnet"
-    ContractAddress: "0xefE368b17D137E86298eec8EbC5502fb56d27832"
+    ChainID: 65536
+    ChainURL: "https://rpc.ata.network"
+    ChainWSURL: "wss://rpc.ata.network"
+    ContractAddress: "0xE26E11B257856B0bEBc4C759aaBDdea72B64351F"
   Staking:
     ChainID: 1
     ChainURL: "https://ethereum-rpc.publicnode.com"
